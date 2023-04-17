@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello guys<br>My name is Raunak<br>I am efficient in Web Development<br>Learned both Frontend as well as Backend<br>(FullStack Developer)<br><br>I also have experience in C | C++ | PYTHON | JAVA<br>I'll be posting projects related to these languages<br><br>I am currently into the trending topics which are AI/ML<br><br>I will be creating stuff like projects, and tutorials for different<br>languages to help new developers learn.<br>Learning with me will be fun.<br>
+Hello guys<br>My name is Raunak<br>I am efficient in Web Development<br>Learned both Frontend as well as Backend<br>(FullStack Developer)<br>I learnt UI/UX and made awesome designs in Figma<br><br>I also have experience in C | C++ | PYTHON | JAVA<br>I'll be posting projects related to these languages<br><br>I am currently into the trending topics which are AI/ML<br><br>I will be creating stuff like projects, and tutorials for different<br>languages to help new developers learn.<br>Learning with me will be fun.<br>
 
 
 # 💻 Tech Stack:
